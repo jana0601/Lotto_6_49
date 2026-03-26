@@ -5,6 +5,9 @@ A small **desktop simulator** for a 6-out-of-49 style lottery: pick six distinct
 The application can be downloaded at: 
 https://drive.google.com/file/d/1NhQfwME7vHmVOa1r1087RjeJG0BpAY8C/view?usp=sharing
 
+## Interface
+
+![UI](UI.png)
 
 ## Requirements
 
