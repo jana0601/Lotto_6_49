@@ -2,6 +2,10 @@
 
 A small **desktop simulator** for a 6-out-of-49 style lottery: pick six distinct numbers from 1–49, draw winning numbers, and see how many match. **For entertainment only**; randomness is not cryptographically secure.
 
+The application can be downloaded at: 
+https://drive.google.com/file/d/1NhQfwME7vHmVOa1r1087RjeJG0BpAY8C/view?usp=sharing
+
+
 ## Requirements
 
 - **Python 3** (3.12+ recommended; the project has been used with 3.14)
